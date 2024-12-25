@@ -1,25 +1,23 @@
-# Next.js TailwindCSS Template
-This repository is a starter template for any project that uses Next.js and TailwindCSS.
+# Video Compressor
+A web app that compresses an MP4 file to a certain megabyte size
 
-The aim of this project is to create a good starting point for my future projects in Next.js that use TailwindCSS.
+<!-- ## Preview
+![](./public/assets/preview.png) -->
 
-## Preview
-![](./public/assets/preview.png)
-
-## Tech Stack
+<!-- ## Tech Stack
 ### Front-end:
 - [React.js](https://react.dev/)
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 ### Back-end:
-- There's no backend 💀
+- There's no backend 💀 -->
 
 ## Local Development
 ### 1. Clone the project
 1. Clone the repository into your system and install the dependencies.
 ```bash
-$ git clone https://github.com/Jeydin21/Next.js-TailwindCSS-Template.git
-$ cd Next.js-TailwindCSS-Template
+$ git clone https://github.com/Jeydin21/Video-Compressor.git
+$ cd Video-Compressor
 $ npm install # Or yarn install
 ```
 
